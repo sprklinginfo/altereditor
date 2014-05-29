@@ -1,0 +1,10 @@
+name = Alter Editor Config
+description =  Alter WYSIWYG editor configuration
+core = 7.x
+package = UTSCLib Custom
+files[] = altereditor.module
+files[] = altereditor_ckeditor_config.js
+
+;
+version = "7.x-1.0"
+core = "7.x"
